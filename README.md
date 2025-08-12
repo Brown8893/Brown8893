@@ -48,6 +48,7 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 :computer: Experience
 ===
 * 長榮高級中學工業群科實習科目兼任教師
+* 帶領長榮高級中學電機科學生參加2024全國高中職專題競賽以「智慧居家屋」榮獲第四名
 * 六信高級中學僑生資訊科專業科目兼任教師
 * 台南靈糧堂網頁前端實習工程師
 * 台南靈糧堂網站更新與維護
