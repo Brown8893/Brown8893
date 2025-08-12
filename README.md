@@ -47,4 +47,6 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 
 :computer: Experience
 ===
-* 長榮中學工業群科實習科目兼任教師
+* 長榮高級中學工業群科實習科目兼任教師
+* 六信高級中學僑生資訊科專業科目兼任教師
+* 財團法人中國基督教靈糧世界佈道會台南靈糧堂網頁前端實習工程師
