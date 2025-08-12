@@ -5,22 +5,20 @@
 🚀 熱衷將技術轉化為解決方案，提升系統效能與使用體驗
 
 ## 🛠 技能與工具
-**語言與框架**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+<!-- 程式語言 -->
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)]()
 
-**資料庫與雲端**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white) 
+<!-- 資料庫 / 雲端 -->
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)]()
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=aws&logoColor=white&style=flat)]()
 
-**工具與平台**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+<!-- 工具與平台 -->
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)]()
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)]()
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)]()
 
 📌 Introduction
 ===
