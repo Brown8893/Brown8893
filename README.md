@@ -17,7 +17,6 @@
 
 <!-- 工具與平台 -->
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)]()
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)]()
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)]()
 
 📌 Introduction
