@@ -34,6 +34,8 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 :bookmark_tabs: Personal portfolio
 ===
 [📄 專案報告（PDF）](./docs/專題報告書-CNN_final.pdf)
+[📄 報告下載](./docs/專題報告書-CNN_final.pdf)
+
 
 [📄專題](https://github.com/Brown8893/KSU/blob/main/%E5%B0%88%E9%A1%8C%E8%A3%BD%E4%BD%9C/%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A%E6%9B%B8-CNN_final.pdf)
 
