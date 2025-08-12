@@ -37,9 +37,7 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 
 [📄 電腦視覺實作](./docs/電腦視覺實務B.pdf)
 
-
-[📄專題](./docs/專題報告書-CNN_final.pdf)
-
+[📄LUA行動裝置遊戲開發實作 ](./docs/快樂捕漁人(LUA).pdf)
 
 :computer: Experience
 ===
