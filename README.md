@@ -4,7 +4,7 @@
 💡 專注於軟體開發、系統整合與 IoT 智慧應用  
 🚀 熱衷將技術轉化為解決方案，提升系統效能與使用體驗
 
-🛠 技能與工具
+🛠 Skills and Tools
 ===
 <!-- 程式語言 -->
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)]()
