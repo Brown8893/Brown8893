@@ -35,10 +35,10 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 ===
 [📄 CNN 模型判別肺炎 X 光影像 Web 平台系統](./docs/專題報告書-CNN_final.pdf)
 
-[📄 電腦視覺實作](./docs/電腦視覺實務實作.pdf)
+[📄 電腦視覺實作](./docs/電腦視覺實務B.pdf)
 
 
-[📄專題](https://github.com/Brown8893/KSU/blob/main/%E5%B0%88%E9%A1%8C%E8%A3%BD%E4%BD%9C/%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A%E6%9B%B8-CNN_final.pdf)
+[📄專題](./docs/專題報告書-CNN_final.pdf)
 
 
 :computer: Experience
