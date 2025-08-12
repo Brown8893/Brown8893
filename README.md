@@ -47,3 +47,4 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 
 :computer: Experience
 ===
+* 長榮中學工業群科實習科目兼任教師
