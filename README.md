@@ -9,11 +9,15 @@
 <!-- 程式語言 -->
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)]()
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)]()
+
+<!-- 前端技術 -->
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)]()
 
 <!-- 資料庫 / 雲端 -->
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)]()
-[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=aws&logoColor=white&style=flat)]()
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)]()
 
 <!-- 工具與平台 -->
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)]()
