@@ -41,5 +41,9 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 
 [📄 JSP系統開發實作-單位設備使用管理系統](./docs/軟體工程期末報告_188.pdf)
 
+[📄 Linux作業系統實務雙講師課程實作成果_FTP&MAIL](./docs/Linux作業系統實務雙講師課程實作成果_FTP&MAIL.pdf)
+
+[📄 Linux作業系統實務雙講師課程實作成果_LAMP](./docs/Linux作業系統實務雙講師課程實作成果_LAMP.pdf)
+
 :computer: Experience
 ===
