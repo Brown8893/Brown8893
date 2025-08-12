@@ -33,7 +33,7 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 
 :bookmark_tabs: Personal portfolio
 ===
-[📄 CNN 模型判別肺炎 X 光影像 Web 平台系統](./docs/專題報告書-CNN_final.pdf)
+[📄 CNN 模型判別肺炎 X 光影像 Web 平台系統](./docs/專題報告書-CNN_final.pdf)（）
 [📄 報告下載](./docs/專題報告書-CNN_final.pdf)
 
 
