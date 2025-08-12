@@ -4,6 +4,14 @@
 💡 專注於軟體開發、系統整合與 IoT 智慧應用  
 🚀 熱衷將技術轉化為解決方案，提升系統效能與使用體驗
 
+## 🛠 技能與工具
+**語言與框架**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=c%2B%2B&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+
 📌 Introduction
 ===
 Hello, my name is Yu-Xiang. I graduated from Kun Shan University with a degree in Computer Science and Information Engineering, and I also completed my high school studies in Information Technology at Chang Jung High School. Throughout my academic journey, I built a solid foundation in software development, and I'm passionate about applying my skills to real-world projects through both teaching and hands-on experience.
