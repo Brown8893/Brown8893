@@ -1,6 +1,6 @@
 ## Hi, this is my github page. 👋
 
-Introduction
+📌 Introduction
 ===
 Hello, my name is Yu-Xiang. I graduated from Kun Shan University with a degree in Computer Science and Information Engineering, and I also completed my high school studies in Information Technology at Chang Jung High School. Throughout my academic journey, I built a solid foundation in software development, and I'm passionate about applying my skills to real-world projects through both teaching and hands-on experience.
 
