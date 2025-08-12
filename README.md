@@ -33,7 +33,7 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 
 :bookmark_tabs: Personal portfolio
 ===
-
+[📄 專案報告下載](./docs/report.pdf)
 
 :computer: Experience
 ===
