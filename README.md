@@ -27,6 +27,10 @@
 ===
 [📄 CNN 模型判別肺炎 X 光影像 Web 平台系統](./docs/專題報告書-CNN_final.pdf)
 
+[🖥 台南靈糧堂官網](http://www.tnllc.org.tw/)
+
+[🖥 靈糧教牧宣教神學院南部分院官網](http://llpmtstb.org/)
+
 [📄 電腦視覺實作-圖像處理與分群聚類](./docs/電腦視覺實務B.pdf)
 
 [📄 LUA行動裝置遊戲開發實作-快樂捕漁人](./docs/快樂捕漁人(LUA).pdf)
