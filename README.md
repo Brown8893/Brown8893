@@ -49,6 +49,7 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 ===
 * 長榮高級中學工業群科實習科目兼任教師
 * 帶領長榮高級中學電機科學生參加2024全國高中職專題競賽以「智慧居家屋」榮獲第四名
+* The Institution of Engineering and Technology - Compare neural networks and fuzzy neural networks applied in power forecasting of photovoltaic system
 * 六信高級中學僑生資訊科專業科目兼任教師
 * 台南靈糧堂大型特別節日活動主持人
 * 台南靈糧堂控台影視副責人
