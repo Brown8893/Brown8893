@@ -1,7 +1,7 @@
 ## Hi, this is my github page. 👋
 
 🎯 **Software Engineer | Project Engineer**  
-💡 專注於軟體開發、系統整合與 IoT 智慧應用、資料庫應用 
+💡 專注於軟體開發、系統整合與 IoT 智慧應用、資料庫應用
 🚀 熱衷將技術轉化為解決方案，提升系統效能與使用體驗
 
 🛠 Skills and Tools
