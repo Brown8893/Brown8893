@@ -48,11 +48,13 @@ I am optimistic, responsible, and patient. I enjoy collaborating with teams and 
 :computer: Experience
 ===
 * 長榮高級中學工業群科實習科目兼任教師
-* 帶領長榮高級中學電機科學生參加2024全國高中職專題競賽以「智慧居家屋」榮獲第四名
+* 指導長榮高級中學電機科學生參加2024全國高中職專題競賽以「智慧居家屋」榮獲第四名（國立屏東大學主辦）
+* 指導長榮高級中學電機科學生參加2024全國學生專題製作競賽以「智慧居家屋」入選決賽（國立虎尾科技大學主辦）
 * IET seminar - Compare neural networks and fuzzy neural networks applied in power forecasting of photovoltaic system
 * 六信高級中學僑生資訊科專業科目兼任教師
 * 台南靈糧堂大型特別節日活動主持人
-* 台南靈糧堂控台影視副責人
+* 台南靈糧堂控台影視副主責
+* 崑山科技大學翔鷹社社長
 * 台南靈糧堂網頁網站全端實習工程師
 * 台南靈糧堂網站更新與維護
 * 靈糧教牧宣教神學院南部分院網站架設與維護
