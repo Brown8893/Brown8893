@@ -44,7 +44,7 @@
 * 指導長榮高級中學電機科學生參加2024全國學生專題製作競賽以「智慧居家屋」入選決賽（國立虎尾科技大學主辦）
 * IET seminar - Compare neural networks and fuzzy neural networks applied in power forecasting of photovoltaic system
 * 六信高級中學僑生資訊科專業科目兼任教師
-* 台南靈糧堂大型特別節日活動主持人
+* 台南靈糧堂大型特別活動主持人
 * 台南靈糧堂影視部門副主責
 * 台南靈糧堂媒體部門平面設計組
 * 崑山科技大學翔鷹社社長
