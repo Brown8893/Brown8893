@@ -45,7 +45,7 @@
 * IET seminar - Compare neural networks and fuzzy neural networks applied in power forecasting of photovoltaic system
 * 六信高級中學僑生資訊科專業科目兼任教師
 * 台南靈糧堂大型特別節日活動主持人
-* 台南靈糧堂控台影視副主責
+* 台南靈糧堂影視部門副主責
 * 台南靈糧堂媒體部門平面設計組
 * 崑山科技大學翔鷹社社長
 * 台南靈糧堂網頁網站全端實習工程師
