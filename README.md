@@ -51,6 +51,7 @@
 :computer: Experience
 ===
 * 長榮高級中學工業群科實習科目兼任教師
+* 長榮高級中學物聯網元件感知社社團指導老師
 * 指導長榮高級中學電機科學生參加2024全國高中職專題競賽以「智慧居家屋」榮獲第四名（國立屏東大學主辦）
 * 指導長榮高級中學電機科學生參加2024全國學生專題製作競賽以「智慧居家屋」入選決賽（國立虎尾科技大學主辦）
 * IET seminar - Compare neural networks and fuzzy neural networks applied in power forecasting of photovoltaic system
