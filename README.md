@@ -23,6 +23,11 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)]()
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)]()
 
+<!-- 硬體 -->
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat)]()
+[![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white&style=flat)]()
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=flat)]()
+
 :bookmark_tabs: Personal portfolio
 ===
 [📄 CNN 模型判別肺炎 X 光影像 Web 平台系統](./docs/專題報告書-CNN_final.pdf)
